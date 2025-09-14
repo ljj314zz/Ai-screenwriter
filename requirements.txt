@@ -1,0 +1,3 @@
+agno
+dotenv
+pydantic
